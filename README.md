@@ -1,28 +1,32 @@
 # 📊 Data Science Portfolio
+# About Me
 
-## 👋 About Me
-I am a Data Analyst and Machine Learning enthusiast with hands-on experience in data analysis and predictive modeling.
+I am a Data Analyst and Machine Learning enthusiast with hands-on experience in data analysis, visualization, and predictive modeling.
 
-## 📁 Projects
+# 📁 Projects
 
-### 🔹 Iris Dataset Analysis
-Explored relationships between variables using visualizations.
+### Iris Dataset Analysis :
 
-### 🔹 Credit Risk Prediction
-Built a classification model to predict loan approval.
+Explored relationships between variables using visualizations to understand patterns and distributions.
 
-### 🔹 Customer Churn Prediction
-Predicted customer churn using machine learning.
+### Credit Risk Prediction :
 
-### 🔹 Loan Acceptance Prediction
-Analyzed customer behavior for loan acceptance.
+Built a classification model to predict loan approval and understand important financial features.
 
-## 🛠 Tools Used
-- Python
-- Pandas
-- Seaborn & Matplotlib
-- Scikit-learn
+### Customer Churn Prediction :
 
-## 🎯 Goal
-To develop data-driven solutions and grow in the field of data science.# data-science-portfolio
-Data Science portfolio featuring data analysis, visualization, and machine learning projects using Python and real-world datasets.
+Predicted which bank customers are likely to leave and analyzed key factors influencing churn.
+
+### Loan Acceptance Prediction
+Analyzed customer behavior to predict personal loan acceptance and guide marketing strategies.
+
+# 🛠 Tools Used
+
+Python
+Pandas
+Seaborn & Matplotlib
+Scikit-learn
+
+# 🎯 Goal
+
+To develop data-driven solutions and grow my skills in the field of Data Science and Machine Learning.
