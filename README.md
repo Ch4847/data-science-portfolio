@@ -26,7 +26,7 @@ Analyzed customer data to predict who is likely to accept a personal loan offer.
 
 # 🛠 Tools Used
 
-# Python
+**Python**
 **Pandas** for Data Handling
 **Seaborn & Matplotlib** for visualization
 **Scikit‑learn** for machine learning
